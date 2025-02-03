@@ -1,4 +1,4 @@
-# all-language-solve-in-debain-
+# all-language-solve-in-debian-
 
 
 first command , this is for me , and i found this : bangla laguage not support in debian gnome , how can i fix using terminal
